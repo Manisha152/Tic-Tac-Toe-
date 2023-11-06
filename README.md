@@ -1,7 +1,5 @@
 # Tic Tac Toe Game 
 
-To run the project, use the following command: python ./index.py.
-
 # Overview
 The aim of this project is to develop a Tic Tac Toe game using python. The primary goal is to create a program that allows two players to play against each other. It's a fun and strategic game that can be enjoyed by friends and family.
 
@@ -28,6 +26,10 @@ Tic Tac Toe is a two-player game played on a 3x3 grid. Two players take turns ma
 - Follows the standard rules of Tic Tac Toe.
 - A simple and easy-to-understand interface.
 - Tracks and announces the winner or a draw.
+
+  
+To run the project, use the following command: python ./index.py.  
+  
 ![image](https://github.com/Manisha152/social_project/assets/87291128/6afa7ea0-dcc1-4467-a395-ba0d680e445e)
 ![image](https://github.com/Manisha152/social_project/assets/87291128/7a598b8a-6595-4f61-ae5e-a1be87eba188)
 
