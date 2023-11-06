@@ -1,5 +1,7 @@
 # Tic Tac Toe Game 
 
+To run the project, use the following command: python ./index.py.
+
 # Overview
 The aim of this project is to develop a Tic Tac Toe game using python. The primary goal is to create a program that allows two players to play against each other. It's a fun and strategic game that can be enjoyed by friends and family.
 
